@@ -1,66 +1,29 @@
-# Hi, I'm Keerthana Karnati 👋
+Hi, I'm Keerthana Karnati 👋
+Software Engineer | Java, Python & AI Systems 
+Based in United States
+M.S. in Computer Science (GPA: 3.9) • Oracle Certified Java Programmer
 
-🎓 M.S. in Computer Science (GPA: 3.9)  
-💻 Full-Stack Software Engineer  
-🌎 Based in the United States  
+I am a Software Engineer driven by the challenge of building scalable backend architectures and intelligent automation. With a strong foundation in Java (Spring Boot) and Microservices, I specialize in optimizing system performance—previously reducing API response times by 40%—and integrating Generative AI into production workflows.
 
-I enjoy building scalable web applications and backend systems that support real-time data workflows and reliable user experiences. My work focuses on full-stack development, distributed systems concepts, and clean API design.
+Currently, I’m focused on building agentic AI engines and refining RAG pipelines to bridge the gap between complex data and natural user interactions.
 
----
+🛠️ The Toolkit
+Backend: Java (Spring Boot), Python (Flask/FastAPI), Node.js, Microservices.
+AI/Data: LLMs (Gemini, OpenAI), LangChain, Vector DBs, Neo4j, PostgreSQL.
+DevOps: AWS (Lambda, S3), Docker, Terraform, CI/CD Pipelines.
+Frontend: React, Next.js, TypeScript, Tailwind CSS.
 
-## 🚀 Tech Stack
+💼 Experience Highlights
+Software Engineer (Automation & AI) @ Liberty General Insurance: Architected migrations to microservices and automated claims workflows, reducing manual steps by 30%.
 
-### Languages
-Java • Python • JavaScript • TypeScript • PHP
+Full Stack Intern @ Virtusa: Identified and resolved system blockers within Agile sprints and engineered modular UI components using Angular.
 
-### Frontend
-React • Next.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+📜 Certifications & Education
+M.S. Computer Science – University of Central Missouri (GPA: 3.9/4.0)
+B.E. Computer Science Engineering – Osmania University
+Oracle Certified Java SE 8 Programmer
+Neo4j & Generative AI Fundamentals
 
-### Backend
-Node.js • Express • Spring Boot • REST APIs • FastAPI (familiar)
-
-### Databases
-MySQL • MongoDB • PostgreSQL
-
-### DevOps / Cloud
-Git • Docker • CI/CD • AWS (S3, Lambda)
-
-### AI / ML (Academic)
-Deep Learning • TensorFlow • LangChain • Data Pipelines
-
----
-
-## 💼 Experience
-
-**Full Stack Developer Intern — Virtusa**  
-📍 Hyderabad, India  
-🗓️ Jan 2023 – Dec 2023  
-
-- Developed full-stack features for enterprise web applications using AngularJS, React, and REST APIs.
-- Diagnosed production dashboard configuration issues and improved application stability.
-- Collaborated with backend engineers and QA teams to debug integration issues and ensure stable sprint releases.
-
----
-
-## 📚 Education
-
-**M.S. Computer Science**  
-University of Central Missouri  
-
-**B.E. Computer Science Engineering**  
-Osmania University  
-
----
-
-## 📜 Certifications
-
-Oracle Certified Java SE 8 Programmer  
-NPTEL – Deep Learning  
-NPTEL – The Joy of Computing Using Python
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/keerthana-karnati-8ba4151a0/  
+📫 Connect
+LinkedIn: keerthana-karnati-8ba4151a0
 Email: keerthanakarnati.work@gmail.com

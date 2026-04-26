@@ -10,7 +10,7 @@
 I am a Software Engineer focused on building high-performance backend systems and intelligent automation tools. I have a passion for architecting clean, modular code and optimizing data workflows.
 
 - 🛠️ **Current Focus:** Building Agentic AI billing engines and RAG pipelines.
-- 🎓 **Education:** Pursuing M.S. in Computer Science at University of Central Missouri.
+- 🎓 **Education:** M.S. in Computer Science at University of Central Missouri.
 - 📜 **Certified:** Oracle Certified Java SE Programmer | Neo4j & Generative AI Fundamentals 
 
 

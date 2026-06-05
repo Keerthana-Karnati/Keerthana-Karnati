@@ -33,7 +33,7 @@ I am a Software Engineer focused on building high-performance backend systems an
 **Software Engineer (Automation & AI Tools)** | *Liberty General Insurance* * Developed customer-facing insurance modules and automated vehicle inspection APIs.  
 * Migrated legacy monolithic architectures to **Microservices** using Spring Boot and Docker.
 
-**Software Developer Intern** | *Virtusa* * Identified and diagnosed production configuration errors and system blockers.  
+**Software Developer** | *Virtusa* * Identified and diagnosed production configuration errors and system blockers.  
 * Built modular product listing components using Angular and TypeScript.
 
 ---

@@ -1,4 +1,4 @@
-# Hi there, I'm Keerthana Karnati 👋
+# Hi there, I'm Keerthana K 👋
 
 **Software Engineer | M.S. in Computer Science (GPA: 3.9/4.0) | Based in United States**
 *Specializing in Scalable Backend Systems, Microservices, and Agentic AI*
@@ -40,8 +40,8 @@ I am a Software Engineer focused on building high-performance backend systems an
 
 ### 📫 Let's Connect!
 
-- **LinkedIn:** [keerthana-karnati-8ba4151a0](https://www.linkedin.com/in/keerthana-k-8ba4151a0/)
-- **Email:** [keerthanakarnati.work@gmail.com](mailto:kkeerthana.tech@gmail.com)
+- **LinkedIn:** [keerthana-k-8ba4151a0](https://www.linkedin.com/in/keerthana-k-8ba4151a0/)
+- **Email:** [kkeerthana.tech@gmail.com](mailto:kkeerthana.tech@gmail.com)
 - **Portfolio:** Updating Soon
 
 ---

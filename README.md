@@ -41,7 +41,7 @@ I am a Software Engineer focused on building high-performance backend systems an
 ### 📫 Let's Connect!
 
 - **LinkedIn:** [keerthana-k-8ba4151a0](https://www.linkedin.com/in/keerthana-k-8ba4151a0/)
-- **Email:** [kkeerthana.tech@gmail.com](mailto:kkeerthana.tech@gmail.com)
+- **Email:** [kkeerthana.work@gmail.com](mailto:kkeerthana.work@gmail.com)
 - **Portfolio:** Updating Soon
 
 ---

@@ -1,4 +1,4 @@
-# Hi there, I'm Keerthana K 👋
+# Hi there, I'm Keerthana👋
 
 **Software Engineer | M.S. in Computer Science (GPA: 3.9/4.0) | Based in United States**
 *Specializing in Scalable Backend Systems, Microservices, and Agentic AI*

@@ -36,7 +36,7 @@ A full-stack AI application that analyzes resumes against job requirements and g
 
 ### 🎓 Education
 
-**M.S. Computer Science** — University of Central Missouri**
+**M.S. Computer Science** — University of Central Missouri
 **B.E. Computer Science & Engineering** — Osmania University
 
 ### 💡 A Little About Me

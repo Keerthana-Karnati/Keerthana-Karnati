@@ -28,16 +28,16 @@ I'm particularly interested in the intersection of **Software Engineering + AI**
 
 ### 📌 Featured Projects
 
-🤖 **SmartPay Telecom — Agentic AI Billing Engine**
+🤖 **SmartPay Telecom - Agentic AI Billing Engine**
 An AI-powered billing workflow that understands natural-language requests and executes secure database operations for telecom account management.
 
-🔍 **AI Talent Scout — AI Resume Screening Application**
+🔍 **AI Talent Scout - AI Resume Screening Application**
 A full-stack AI application that analyzes resumes against job requirements and generates structured candidate reports using **Python, Flask, and Google Gemini**.
 
 ### 🎓 Education
 
-**M.S. Computer Science** — University of Central Missouri
-**B.E. Computer Science & Engineering** — Osmania University
+**M.S. Computer Science** - University of Central Missouri
+**B.E. Computer Science & Engineering** - Osmania University
 
 ### 💡 A Little About Me
 

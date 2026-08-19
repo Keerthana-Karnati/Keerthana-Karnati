@@ -1,48 +1,48 @@
-# Hi there, I'm Keerthana👋
+# Hi 👋, I'm K Keerthana!
 
-**Software Engineer | M.S. in Computer Science (GPA: 3.9/4.0) | Based in United States**
-*Specializing in Scalable Backend Systems, Microservices, and Agentic AI*
+I'm a **Full Stack Software Engineer** with 3.5+ years of experience building scalable backend services, full-stack applications, distributed systems, and AI-powered solutions.
 
----
+Currently, I'm working at **JPMorgan Chase**, where I build enterprise infrastructure automation platforms using **Java, Spring Boot, React, PostgreSQL, Camunda BPM, and cloud technologies**. I'm also passionate about applying **Generative AI and Agentic AI** to real-world engineering workflows, including LLM integrations, AI agents, MCP, prompt engineering, and developer automation.
 
-### 🚀 About Me
+### 👩‍💻 What I Work With
 
-I am a Software Engineer focused on building high-performance backend systems and intelligent automation tools. I have a passion for architecting clean, modular code and optimizing data workflows.
+* ☕ **Backend:** Java, Spring Boot, Spring Security, REST APIs, Microservices
+* 🎨 **Frontend:** React, TypeScript, Angular, JavaScript
+* 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB, Oracle, Redis
+* ☁️ **Cloud & DevOps:** AWS, Docker, Jenkins, GitHub Actions, Terraform
+* 🤖 **AI/LLM:** Claude, OpenAI API, Gemini, MCP, AI Agents, Prompt Engineering
+* 🔐 **Security:** OAuth 2.0, JWT, OIDC, mTLS
+* ⚙️ **Workflow & Integration:** Camunda BPM, REST integrations, Third-Party APIs
+* 📊 **Testing & Observability:** JUnit, Mockito, SonarQube, Grafana, Dynatrace
 
-- 🛠️ **Current Focus:** Building Agentic AI billing engines and RAG pipelines.
-- 🎓 **Education:** M.S. in Computer Science at University of Central Missouri.
-- 📜 **Certified:** Oracle Certified Java SE Programmer | Neo4j & Generative AI Fundamentals 
+### 🚀 Currently Exploring
 
+I'm particularly interested in the intersection of **Software Engineering + AI**, including:
 
----
+* Building reliable **LLM-powered enterprise applications**
+* Designing **agentic workflows and AI agents**
+* Integrating LLMs with enterprise tools and APIs using **MCP**
+* AI-assisted software development
+* Distributed systems and scalable backend architecture
+* Cloud-native application development
 
-### 💻 Tech Stack
+### 📌 Featured Projects
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Java, Python, JavaScript, TypeScript, C/C++ |
-| **Backend** | Spring Boot, Flask, RESTful Microservices, Node.js |
-| **Data & AI** | PostgreSQL, MariaDB, Neo4j, LLMs (Gemini, OpenAI), LangChain |
-| **Cloud & DevOps** | AWS (S3, Lambda, EC2), Docker, Terraform, Jenkins, GitHub Actions |
-| **Frontend** | React, Next.js, Angular, Tailwind CSS |
+🤖 **SmartPay Telecom — Agentic AI Billing Engine**
+An AI-powered billing workflow that understands natural-language requests and executes secure database operations for telecom account management.
 
----
+🔍 **AI Talent Scout — AI Resume Screening Application**
+A full-stack AI application that analyzes resumes against job requirements and generates structured candidate reports using **Python, Flask, and Google Gemini**.
 
-### 💼 Professional Journey
+### 🎓 Education
 
-**Software Engineer (Automation & AI Tools)** | *Liberty General Insurance* * Developed customer-facing insurance modules and automated vehicle inspection APIs.  
-* Migrated legacy monolithic architectures to **Microservices** using Spring Boot and Docker.
+**M.S. Computer Science** — University of Central Missouri
+**B.E. Computer Science & Engineering** — Osmania University
 
-**Software Developer** | *Virtusa* * Identified and diagnosed production configuration errors and system blockers.  
-* Built modular product listing components using Angular and TypeScript.
+### 💡 A Little About Me
 
----
+I enjoy turning complex problems into **simple, scalable, and automated solutions**. I'm especially excited about technologies that bring together **software engineering, cloud computing, and AI**.
 
-### 📫 Let's Connect!
+I'm always learning, building, and experimenting with new technologies. 🚀
 
-- **LinkedIn:** [keerthana-k-8ba4151a0](https://www.linkedin.com/in/keerthana-k-8ba4151a0/)
-- **Email:** [kkeerthana.work@gmail.com](mailto:kkeerthana.work@gmail.com)
-- **Portfolio:** Updating Soon
-
----
-*“Building software that scales and AI that understands.”*
+**Let's build something awesome!**
